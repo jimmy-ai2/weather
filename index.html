@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Weather</title>
+    <link
+      rel="stylesheet"
+      href="weather.css"
+    />
+  </head>
+  <body>
+    <div id="weather-container">
+      <h1>Weather</h1>
+      <input
+        type="text"
+        id="city-input"
+        placeholder="Enter City Name"
+      />
+      <button id="search-button">Search</button>
+      <h2 id="city"></h2>
+      <img
+        id="weather-image"
+        src=""
+        width="100px"
+        height="100px"
+      />
+      <p><b>Temperature:</b> <span id="temperature"></span> ℃</p>
+      <p><b>Condition:</b> <span id="weather-condition"></span></p>
+      <p><b>Wind Speed:</b> <span id="wind-speed"></span>km/h</p>
+    </div>
+
+    <script src="weather.js"></script>
+  </body>
+</html>
