@@ -42,7 +42,7 @@ A clean, minimal weather dashboard that delivers real-time conditions for any ci
 
 | Default State                           | Search Results                           |
 | --------------------------------------- | ---------------------------------------- |
-| ![Default State](snapshots/default.png) | ![Search Results](snapshots/results.png) |
+| ![Default State](snapshots/default.png) | ![Search Results](snapshots/result.png) |
 
 
 ## 🔮 Future Improvements
