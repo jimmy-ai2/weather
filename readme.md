@@ -29,7 +29,7 @@ A clean, minimal weather dashboard that delivers real-time conditions for any ci
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo](https://your-live-demo-link-here.com)
+👉 [View Live Demo](https://jimmy-ai2.github.io/weather/)
 
 ## 📖 How to Use
 
@@ -44,7 +44,6 @@ A clean, minimal weather dashboard that delivers real-time conditions for any ci
 | --------------------------------------- | ---------------------------------------- |
 | ![Default State](snapshots/default.png) | ![Search Results](snapshots/results.png) |
 
-> Replace the images above with your own snapshots. Store them in a `snapshots/` folder in the project root.
 
 ## 🔮 Future Improvements
 
